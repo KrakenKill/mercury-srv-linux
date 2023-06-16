@@ -1,0 +1,10 @@
+[server]
+port = 443
+phpPath = "/var/www"
+accessLogFilePath = "/var/log/msrv/access.log"
+errorLogFilePath = "/var/log/msrv/error.log"
+staticDir = "/var/www/static"
+httpsEnabled = true
+certFilePath = ""
+keyFilePath = ""
+redirectToIndex = true

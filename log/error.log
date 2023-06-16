@@ -1,0 +1,264 @@
+2023/06/15 23:16:10 [2023-06-15 23:16:10] Erreur lors de l'exécution du fichier PHP /var/runGo/www/index.php: exec: "php": executable file not found in $PATH
+2023/06/15 23:16:10 [2023-06-15 23:16:10] Sortie du processus PHP: 
+2023/06/15 23:16:10 [2023-06-15 23:16:10] Erreur lors de la lecture du fichier PHP: exec: "php": executable file not found in $PATH
+2023/06/15 23:16:10 [2023-06-15 23:16:10] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exec: "php": executable file not found in $PATH
+2023/06/15 23:16:10 [2023-06-15 23:16:10] Sortie du processus PHP: 
+2023/06/15 23:16:10 [2023-06-15 23:16:10] Erreur lors de la lecture du fichier PHP: exec: "php": executable file not found in $PATH
+2023/06/15 23:17:22 [2023-06-15 23:17:22] Erreur lors de l'exécution du fichier PHP /var/runGo/www//index.php: exec: "php": executable file not found in $PATH
+2023/06/15 23:17:22 [2023-06-15 23:17:22] Sortie du processus PHP: 
+2023/06/15 23:17:22 [2023-06-15 23:17:22] Erreur lors de la lecture du fichier PHP: exec: "php": executable file not found in $PATH
+2023/06/15 23:17:23 [2023-06-15 23:17:23] Erreur lors de l'exécution du fichier PHP /var/runGo/www//favicon.php: exec: "php": executable file not found in $PATH
+2023/06/15 23:17:23 [2023-06-15 23:17:23] Sortie du processus PHP: 
+2023/06/15 23:17:23 [2023-06-15 23:17:23] Erreur lors de la lecture du fichier PHP: exec: "php": executable file not found in $PATH
+2023/06/15 23:17:40 [2023-06-15 23:17:40] Erreur lors de l'exécution du fichier PHP var/runGo/www//index.php: exec: "php": executable file not found in $PATH
+2023/06/15 23:17:40 [2023-06-15 23:17:40] Sortie du processus PHP: 
+2023/06/15 23:17:40 [2023-06-15 23:17:40] Erreur lors de la lecture du fichier PHP: exec: "php": executable file not found in $PATH
+2023/06/15 23:17:40 [2023-06-15 23:17:40] Erreur lors de l'exécution du fichier PHP var/runGo/www//favicon.php: exec: "php": executable file not found in $PATH
+2023/06/15 23:17:40 [2023-06-15 23:17:40] Sortie du processus PHP: 
+2023/06/15 23:17:40 [2023-06-15 23:17:40] Erreur lors de la lecture du fichier PHP: exec: "php": executable file not found in $PATH
+2023/06/15 23:20:26 [2023-06-15 23:20:26] Erreur lors de l'exécution du fichier PHP var/runGo/www//index.php: exit status 1
+2023/06/15 23:20:26 [2023-06-15 23:20:26] Sortie du processus PHP: 
+2023/06/15 23:20:26 [2023-06-15 23:20:26] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/15 23:21:02 [2023-06-15 23:21:02] Erreur lors de l'exécution du fichier PHP var/runGo/www/index.php: exit status 1
+2023/06/15 23:21:02 [2023-06-15 23:21:02] Sortie du processus PHP: 
+2023/06/15 23:21:02 [2023-06-15 23:21:02] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/15 23:34:46 [2023-06-15 23:34:46] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/15 23:34:46 [2023-06-15 23:34:46] Sortie du processus PHP: 
+2023/06/15 23:34:46 [2023-06-15 23:34:46] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/15 23:35:19 [2023-06-15 23:35:19] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/15 23:35:19 [2023-06-15 23:35:19] Sortie du processus PHP: 
+2023/06/15 23:35:19 [2023-06-15 23:35:19] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/15 23:35:29 [2023-06-15 23:35:29] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/15 23:35:29 [2023-06-15 23:35:29] Sortie du processus PHP: 
+2023/06/15 23:35:29 [2023-06-15 23:35:29] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/15 23:35:31 [2023-06-15 23:35:31] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/15 23:35:31 [2023-06-15 23:35:31] Sortie du processus PHP: 
+2023/06/15 23:35:31 [2023-06-15 23:35:31] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/15 23:35:53 [2023-06-15 23:35:53] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/15 23:35:53 [2023-06-15 23:35:53] Sortie du processus PHP: 
+2023/06/15 23:35:53 [2023-06-15 23:35:53] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/15 23:35:59 [2023-06-15 23:35:59] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/15 23:35:59 [2023-06-15 23:35:59] Sortie du processus PHP: 
+2023/06/15 23:35:59 [2023-06-15 23:35:59] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/15 23:36:35 [2023-06-15 23:36:35] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/15 23:36:35 [2023-06-15 23:36:35] Sortie du processus PHP: 
+2023/06/15 23:36:35 [2023-06-15 23:36:35] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:44 [2023-06-16 07:42:44] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:44 [2023-06-16 07:42:44] Sortie du processus PHP: 
+2023/06/16 07:42:44 [2023-06-16 07:42:44] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:46 [2023-06-16 07:42:46] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:46 [2023-06-16 07:42:46] Sortie du processus PHP: 
+2023/06/16 07:42:46 [2023-06-16 07:42:46] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:46 [2023-06-16 07:42:46] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:46 [2023-06-16 07:42:46] Sortie du processus PHP: 
+2023/06/16 07:42:46 [2023-06-16 07:42:46] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Sortie du processus PHP: 
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Sortie du processus PHP: 
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Sortie du processus PHP: 
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Sortie du processus PHP: 
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Sortie du processus PHP: 
+2023/06/16 07:42:47 [2023-06-16 07:42:47] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Sortie du processus PHP: 
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Sortie du processus PHP: 
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Sortie du processus PHP: 
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Sortie du processus PHP: 
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Sortie du processus PHP: 
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Sortie du processus PHP: 
+2023/06/16 07:42:48 [2023-06-16 07:42:48] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Sortie du processus PHP: 
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Sortie du processus PHP: 
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Sortie du processus PHP: 
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Sortie du processus PHP: 
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Sortie du processus PHP: 
+2023/06/16 07:42:49 [2023-06-16 07:42:49] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Sortie du processus PHP: 
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Sortie du processus PHP: 
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Sortie du processus PHP: 
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Sortie du processus PHP: 
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Sortie du processus PHP: 
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Sortie du processus PHP: 
+2023/06/16 07:42:50 [2023-06-16 07:42:50] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Sortie du processus PHP: 
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Sortie du processus PHP: 
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Sortie du processus PHP: 
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Sortie du processus PHP: 
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Sortie du processus PHP: 
+2023/06/16 07:42:51 [2023-06-16 07:42:51] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Sortie du processus PHP: 
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Sortie du processus PHP: 
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Sortie du processus PHP: 
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Sortie du processus PHP: 
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Sortie du processus PHP: 
+2023/06/16 07:42:52 [2023-06-16 07:42:52] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Sortie du processus PHP: 
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Sortie du processus PHP: 
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Sortie du processus PHP: 
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Sortie du processus PHP: 
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Sortie du processus PHP: 
+2023/06/16 07:42:53 [2023-06-16 07:42:53] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Sortie du processus PHP: 
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Sortie du processus PHP: 
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Sortie du processus PHP: 
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Sortie du processus PHP: 
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Sortie du processus PHP: 
+2023/06/16 07:42:54 [2023-06-16 07:42:54] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Sortie du processus PHP: 
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Sortie du processus PHP: 
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Sortie du processus PHP: 
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Sortie du processus PHP: 
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Sortie du processus PHP: 
+2023/06/16 07:42:55 [2023-06-16 07:42:55] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Sortie du processus PHP: 
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Sortie du processus PHP: 
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Sortie du processus PHP: 
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Sortie du processus PHP: 
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Sortie du processus PHP: 
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Sortie du processus PHP: 
+2023/06/16 07:42:56 [2023-06-16 07:42:56] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Sortie du processus PHP: 
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Sortie du processus PHP: 
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Sortie du processus PHP: 
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Sortie du processus PHP: 
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Sortie du processus PHP: 
+2023/06/16 07:42:57 [2023-06-16 07:42:57] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Sortie du processus PHP: 
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Sortie du processus PHP: 
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Sortie du processus PHP: 
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Sortie du processus PHP: 
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Sortie du processus PHP: 
+2023/06/16 07:42:58 [2023-06-16 07:42:58] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:59 [2023-06-16 07:42:59] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:59 [2023-06-16 07:42:59] Sortie du processus PHP: 
+2023/06/16 07:42:59 [2023-06-16 07:42:59] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:42:59 [2023-06-16 07:42:59] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:42:59 [2023-06-16 07:42:59] Sortie du processus PHP: 
+2023/06/16 07:42:59 [2023-06-16 07:42:59] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:52:56 [2023-06-16 07:52:56] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:52:56 [2023-06-16 07:52:56] Sortie du processus PHP: 
+2023/06/16 07:52:56 [2023-06-16 07:52:56] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:54:22 [2023-06-16 07:54:22] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:54:22 [2023-06-16 07:54:22] Sortie du processus PHP: 
+2023/06/16 07:54:22 [2023-06-16 07:54:22] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 07:56:07 [2023-06-16 07:56:07] Erreur lors de l'exécution du fichier PHP /var/runGo/www/favicon.php: exit status 1
+2023/06/16 07:56:07 [2023-06-16 07:56:07] Sortie du processus PHP: 
+2023/06/16 07:56:07 [2023-06-16 07:56:07] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 08:23:31 [2023-06-16 08:23:31] Erreur lors de l'exécution du fichier PHP /var/runGo/www/owa/auth/logon.php: exit status 1
+2023/06/16 08:23:31 [2023-06-16 08:23:31] Sortie du processus PHP: 
+2023/06/16 08:23:31 [2023-06-16 08:23:31] Erreur lors de la lecture du fichier PHP: exit status 1
+2023/06/16 08:29:42 [2023-06-16 08:29:42] Erreur lors de l'exécution du fichier PHP /var/runGo/www/owa/auth/x.php: exit status 1
+2023/06/16 08:29:42 [2023-06-16 08:29:42] Sortie du processus PHP: 
+2023/06/16 08:29:42 [2023-06-16 08:29:42] Erreur lors de la lecture du fichier PHP: exit status 1
